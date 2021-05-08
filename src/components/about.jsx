@@ -2,8 +2,12 @@ import React from 'react'
 
 const About = () => {
     return (
-        <div>
-            <h1>Its About Page </h1>
+        <div className = "conatiner">
+            <div className="row">
+                <div className="col-12">
+                    <h1 className = "text-center">Resume</h1>
+                </div>
+            </div>
             
         </div>
     )
